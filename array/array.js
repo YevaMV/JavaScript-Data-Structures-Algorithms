@@ -31,6 +31,7 @@ class Array {
       this.data[i] = this.data[i + 1];
     }
     delete this.data[this.length];
+    this.length--;
   }
 }
 
