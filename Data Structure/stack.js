@@ -22,3 +22,7 @@ class Stack {
 }
 
 let stack = new Stack();
+
+// time complexity
+// insert O(1)
+// delete O(1)

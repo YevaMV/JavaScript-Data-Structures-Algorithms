@@ -33,3 +33,7 @@ class Queue {
 }
 
 let queue = new Queue();
+
+// time complexity
+// insert O(1)
+// delete O(n)
